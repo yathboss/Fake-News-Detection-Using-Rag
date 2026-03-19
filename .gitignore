@@ -1,0 +1,13 @@
+.venv/
+.venv-1/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+dataset/*.csv
+outputs/indexes/
+outputs/predictions/
+
+.DS_Store
+Thumbs.db
